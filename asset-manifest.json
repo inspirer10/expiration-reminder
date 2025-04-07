@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/expiration-reminder/static/css/main.60c516dc.css",
+    "main.css": "/expiration-reminder/static/css/main.bb2975ad.css",
     "main.js": "/expiration-reminder/static/js/main.efdf10da.js",
     "index.html": "/expiration-reminder/index.html",
-    "main.60c516dc.css.map": "/expiration-reminder/static/css/main.60c516dc.css.map",
+    "main.bb2975ad.css.map": "/expiration-reminder/static/css/main.bb2975ad.css.map",
     "main.efdf10da.js.map": "/expiration-reminder/static/js/main.efdf10da.js.map"
   },
   "entrypoints": [
-    "static/css/main.60c516dc.css",
+    "static/css/main.bb2975ad.css",
     "static/js/main.efdf10da.js"
   ]
 }
